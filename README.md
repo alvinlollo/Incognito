@@ -5,3 +5,5 @@ properly setup prettier code
 download CSS peak
 
 download hungry delete
+
+download auto rename tag
